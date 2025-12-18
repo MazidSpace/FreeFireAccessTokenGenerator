@@ -24,7 +24,7 @@ The **Free Fire Access Token Generator Tool** is a lightweight and efficient uti
 
 - **Telegram Bot:**
 - BotUserName @FreeFireAccessTokenBot
-  https://t.me/FreeFireAccessTokenBot?start=start
+- https://t.me/FreeFireAccessTokenBot?start=start
 
 ---
 
