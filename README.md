@@ -19,7 +19,8 @@ The **Free Fire Access Token Generator Tool** is a lightweight and efficient uti
 
 ## 🌐 Live Access
 
-- **Website (Main Tool):**  
+- **Website (Main Tool):**
+- https://fftools.site/ (premium🗿)
   https://ffaccesstokengenrator.vercel.app/
 
 - **Telegram Bot:**
