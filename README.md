@@ -20,20 +20,28 @@ The **Free Fire Access Token Generator Tool** is a lightweight and efficient uti
 ## 🌐 Live Access
 
 - **Website (Main Tool):**
-- https://fftools.site/ ( Access Token + Long Bio )
-- https://ffaccesstokengenrator.vercel.app/  ( Only Access Token )
-- 
-- **How to get Access Token( Tutorial 📺 ):**
+
+- https://fftools.site/ (Access Token + Long Bio)
+
+- https://ffaccesstokengenrator.vercel.app/ (Only Access Token)
+
+- **How to Get Access Token (Tutorial 📺):**
+
 - https://youtu.be/nroOtYY51sg?si=MW-clxX4bp2gRvKc
--
-- **Free Fire 2220 Likes ❤️ per day :**
-- https://t.me/freefireautolikesgroup ( Join Now )
-- https://t.me/+imFUQyBr_mg4OWE1 ( Free Group )
-- https://t.me/+41hugCdi5tI5ZTE9 ( Main Channel )
-- 
 - **Telegram Bot:**
-- BotUserName @FreeFireAccessTokenBot
+
+- Bot Username: `@FreeFireAccessTokenBot`
+
 - https://t.me/FreeFireAccessTokenBot?start=start
+---
+
+- ## Free Fire 2220 Likes ❤️ Per Day:
+
+- https://t.me/freefireautolikesgroup (Join Now)
+
+- https://t.me/+imFUQyBr_mg4OWE1 (Free Group)
+
+- https://t.me/+41hugCdi5tI5ZTE9 (Main Channel)
 
 ---
 
